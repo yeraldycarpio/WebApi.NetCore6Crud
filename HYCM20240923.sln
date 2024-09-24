@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HYCM20240923", "HYCM20240923\HYCM20240923.csproj", "{5A683D3E-3F9F-405A-90CF-6597892F956D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HYCM.DTOs", "HYCM.DTOs\HYCM.DTOs.csproj", "{86613425-AC3C-422A-8344-DCF964A99E52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5A683D3E-3F9F-405A-90CF-6597892F956D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A683D3E-3F9F-405A-90CF-6597892F956D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A683D3E-3F9F-405A-90CF-6597892F956D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86613425-AC3C-422A-8344-DCF964A99E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86613425-AC3C-422A-8344-DCF964A99E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86613425-AC3C-422A-8344-DCF964A99E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86613425-AC3C-422A-8344-DCF964A99E52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
