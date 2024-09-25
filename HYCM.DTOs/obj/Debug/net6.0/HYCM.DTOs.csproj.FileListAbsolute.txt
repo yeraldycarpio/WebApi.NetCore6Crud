@@ -1,0 +1,12 @@
+E:\Hillary\WebApi.NetCoreCrud\HYCM20240923\HYCM.DTOs\bin\Debug\net6.0\HYCM.DTOs.deps.json
+E:\Hillary\WebApi.NetCoreCrud\HYCM20240923\HYCM.DTOs\bin\Debug\net6.0\HYCM.DTOs.dll
+E:\Hillary\WebApi.NetCoreCrud\HYCM20240923\HYCM.DTOs\bin\Debug\net6.0\HYCM.DTOs.pdb
+E:\Hillary\WebApi.NetCoreCrud\HYCM20240923\HYCM.DTOs\obj\Debug\net6.0\HYCM.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hillary\WebApi.NetCoreCrud\HYCM20240923\HYCM.DTOs\obj\Debug\net6.0\HYCM.DTOs.AssemblyInfoInputs.cache
+E:\Hillary\WebApi.NetCoreCrud\HYCM20240923\HYCM.DTOs\obj\Debug\net6.0\HYCM.DTOs.AssemblyInfo.cs
+E:\Hillary\WebApi.NetCoreCrud\HYCM20240923\HYCM.DTOs\obj\Debug\net6.0\HYCM.DTOs.csproj.CoreCompileInputs.cache
+E:\Hillary\WebApi.NetCoreCrud\HYCM20240923\HYCM.DTOs\obj\Debug\net6.0\HYCM.DTOs.sourcelink.json
+E:\Hillary\WebApi.NetCoreCrud\HYCM20240923\HYCM.DTOs\obj\Debug\net6.0\HYCM.DTOs.dll
+E:\Hillary\WebApi.NetCoreCrud\HYCM20240923\HYCM.DTOs\obj\Debug\net6.0\refint\HYCM.DTOs.dll
+E:\Hillary\WebApi.NetCoreCrud\HYCM20240923\HYCM.DTOs\obj\Debug\net6.0\HYCM.DTOs.pdb
+E:\Hillary\WebApi.NetCoreCrud\HYCM20240923\HYCM.DTOs\obj\Debug\net6.0\ref\HYCM.DTOs.dll
